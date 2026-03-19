@@ -448,6 +448,7 @@
             "pages": [
               "community/governance",
               "community/contributor-ladder",
+              "community/pr-review-process",
               "community/sdk-tiers",
               "community/antitrust"
             ]
