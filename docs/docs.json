@@ -464,6 +464,7 @@
             "group": "Working Group Charters",
             "pages": [
               "community/file-uploads/charter",
+              "community/governance-wg/charter",
               "community/inspector-v2/charter",
               "community/interceptors/charter",
               "community/sdk/charter",
